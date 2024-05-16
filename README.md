@@ -1,6 +1,14 @@
 
 ###Hi there 👋  ![image](https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat) ## Some Text On Left!<br>Some Text On Left!<br><br>Some Text On Left!Some Text On Left!Some Text
-
+<div style="clear: both;">
+  <div style="float: right; margin-right 1em;">
+    <img src="https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat" alt="">
+  </div>
+  <div>
+    <h2>Hi there 👋t</h2>
+    <p>Some more text that will appear to the left of the image.</p>
+  </div>
+</div>
 
 ###Hi there 👋
 
