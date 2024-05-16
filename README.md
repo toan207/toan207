@@ -1,11 +1,3 @@
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    <img align="right" src="https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat" alt="">
-  </div>
-  <div>
-    <h3>Hi there 👋</h3>
-  </div>
-</div>
 <img align="right" src="https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat" alt="">  
 ### Hi there 👋
 
