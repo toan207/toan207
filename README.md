@@ -1,10 +1,9 @@
-
 <div style="clear: both;">
-  <div style="float: right; margin-right 1em;">
-    <img src="https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat" alt="">
-  </div>
   <div>
     <h3>Hi there 👋</h3>
+  </div>
+  <div style="float: right; margin-right 1em;">
+    <img src="https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat" alt="">
   </div>
 </div>
 
