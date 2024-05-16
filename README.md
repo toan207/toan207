@@ -7,4 +7,4 @@
 - 🗒 I really like solving algorithm problems, so I am very active at LeetCode. You can follow it at [My LeetCode](https://leetcode.com/u/toan207/)
 - 🏅 I have several certifications in engineering and this is [My Technical Certificate](https://github.com/toan207/My-Certificate)
 
-<p align="left"> Hi there 👋                                                     <img src="https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat" alt="toan207" /> </p>
+<p align="left"> <b>Hi there<\b> 👋<img src="https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat" alt="toan207" /> </p>
