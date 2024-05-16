@@ -1,5 +1,6 @@
 <img style="float: right;" src="https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat" alt="toan207" > 
 ![image](https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat){: style="float: right"}
+![image](https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat){: style="float: left"; margin-right: 10em; height="25%" width="25%"} ## Some Text On Left!<br>Some Text On Left!<br><br>Some Text On Left!Some Text On Left!Some Text
 Hi there 👋
 
 - 🔭 I’m a Backend Developer and Algorithm Engineer
