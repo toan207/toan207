@@ -5,8 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat" alt="">
   </div>
   <div>
-    <h2>Hi there 👋t</h2>
-    <p>Some more text that will appear to the left of the image.</p>
+    <h3>Hi there 👋</h3>
   </div>
 </div>
 
