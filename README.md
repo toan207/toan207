@@ -1,5 +1,5 @@
 
-![image](https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat){: style="float: left"; margin-right: 10em; height="25%" width="25%"} ## Some Text On Left!<br>Some Text On Left!<br><br>Some Text On Left!Some Text On Left!Some Text
+![image](https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat) ## Some Text On Left!<br>Some Text On Left!<br><br>Some Text On Left!Some Text On Left!Some Text
 
 
 ###Hi there 👋
