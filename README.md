@@ -3,7 +3,7 @@
     <h3>Hi there 👋</h3>
   </div>
   <div style="float: left; margin-right 1em;">
-    <img src="https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat" alt="">
+    <img align="right" src="https://komarev.com/ghpvc/?username=toan207&label=Profile%20views&color=0e75b6&style=flat" alt="">
   </div>
 </div>
 
